@@ -1,6 +1,6 @@
 # Setup
 title: Hackish Space
-url: 
+url: https://hackish.space/
 paginate: 1
 paginate_path: "/page:num/"
 baseurl: "/"
@@ -29,7 +29,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
- ga_analytics: UA-149145336-1
+ga_analytics: UA-149145336-1
 
 # Specify the author for blog posts
 author:
@@ -42,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /blog/blog
+    url: /blog
 
   - title: About
-    url: /blog/about
+    url: /about
