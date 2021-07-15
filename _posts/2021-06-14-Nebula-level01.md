@@ -92,25 +92,3 @@ flag01@nebula:/tmp/level01$ /home/flag01/flag01
 flag01@nebula:/tmp/level01$ getflag 
 You have successfully executed getflag on a target account
 ```
-
-## Other Nebula levels 
-- [level00](https://hackish.space/Nebula-level00)
-- [level01](https://hackish.space/Nebula-level01)
-- [level02](https://hackish.space/Nebula-level02)
-- [level03](https://hackish.space/Nebula-level03)
-- [level04](https://hackish.space/Nebula-level04)
-- [level05](https://hackish.space/Nebula-level05)
-- [level06](https://hackish.space/Nebula-level06)
-- [level07](https://hackish.space/Nebula-level07)
-- [level08](https://hackish.space/Nebula-level08)
-- [level09](https://hackish.space/Nebula-level09)
-- [level10](https://hackish.space/Nebula-level10)
-- [level11](https://hackish.space/Nebula-level11)
-- [level12](https://hackish.space/Nebula-level12)
-- [level13](https://hackish.space/Nebula-level13)
-- [level14](https://hackish.space/Nebula-level14)
-- [level15](https://hackish.space/Nebula-level15)
-- [level16](https://hackish.space/Nebula-level16)
-- [level17](https://hackish.space/Nebula-level17)
-- [level18](https://hackish.space/Nebula-level18)
-- [level19](https://hackish.space/Nebula-level19)
