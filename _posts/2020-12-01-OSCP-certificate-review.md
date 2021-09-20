@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "OSCP review"
 tags: OSCP
 description: "My thoughts and takeaway from Offensive Security PWK/OSCP certificate"
