@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula08"
 tags: Nebula
 description: "Analyzing .pcap file to find credentials in TCP stream"
