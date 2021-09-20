@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula01"
 tags: Nebula
 description: "Writing a simple binary to exploit the application via $PATH variable"

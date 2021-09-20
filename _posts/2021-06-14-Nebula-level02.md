@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula02"
 tags: Nebula
 description: "Interrupting the execution flow with the command injection"

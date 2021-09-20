@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula04"
 tags: Nebula
 description: "Bypassing the restriction to read the token with symlink"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "BOF"
 tags: TryHackMe
 description: "Develop an exploit for a custom binary that vulnerable to the Stack Buffer Overflow vulnerability."

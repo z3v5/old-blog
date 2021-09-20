@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula05"
 tags: Nebula
 description: "Recovering ssh keys to capture the flag"

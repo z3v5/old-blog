@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula07"
 tags: Nebula
 description: "Exploiting a command injection in the Perl web server"

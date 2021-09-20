@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula03"
 tags: Nebula
 description: "Exploiting command injection in the CRON job script"

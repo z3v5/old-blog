@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula00"
 tags: Nebula
 description: "Finding the binary with SUID bit set in the Nebula form exploit.education"

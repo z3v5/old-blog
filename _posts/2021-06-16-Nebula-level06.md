@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nebula06"
 tags: Nebula
 description: "Cracking the password with John The Ripper"
