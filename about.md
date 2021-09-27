@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  This site will be dead soon. Feel free to join the Telegram channel that will replace it. Link nbelow:
+  This site will be dead soon. Feel free to join the Telegram channel that will replace it. Link below:
 </p>
 
 
